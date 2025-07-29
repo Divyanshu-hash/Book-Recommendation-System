@@ -59,6 +59,20 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## 📁 Project Structure
+
+```bash
+book-recommendation-system/
+│
+├── app.py                  # Streamlit main app file
+├── books.pkl               # Pickled book metadata
+├── similarity.pkl          # Pickled similarity matrix
+├── dataProcessing.py        # (Optional) For Testing Purpose
+├── requirements.txt        # Python dependencies
+├── images/                 # (Optional) Folder for screenshots
+└── README.md               # This file
+```
+
 ## 🧠 How It Works
 The app uses cosine similarity to compare books based on content features.
 
