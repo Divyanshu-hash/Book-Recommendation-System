@@ -16,13 +16,6 @@ A clean and responsive **Book Recommendation System** built with **Streamlit** t
 
 ## 🖼️ Demo
 
-> 📌 Add your screenshots here.  
-> Create an `images/` folder in your repository and upload your screenshots.
-
-### Book Selection Interface
-
-![Book Selection](images/screenshot1.png)
-
 ### Recommendation Display
 
 ![Recommendations](images/screenshot2.png)
